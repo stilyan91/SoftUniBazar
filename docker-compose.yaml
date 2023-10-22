@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+    mssql:
+        environment:
+            - ACCEPT_EULA=y
+            - MSSQL_SA_PASSWORD=myStrongPassword12#
+        ports:
+            - '1433:1433'
+        volumes:
+            - sqldata:/var/opt/mssql/
+        container_name: sqlserver
+        image: mcr.microsoft.com/mssql/server
+        deploy:
+          resources:
+            reservations:
+              cpus: '2'
+              memory: 2GB
+    web-app:
+      container_name: webapp
+      image: stilyan91bazarscr.azurecr.io/bazar
+      restart: on-failure
+      ports:
+        - '80:80'
+      domainname: Stilyan91
+volumes:
+  sqldata:
+    driver: azure_file
+    driver_opts:
+      share_name: sql-volume
+      storage_account_name: stilyan91bsa

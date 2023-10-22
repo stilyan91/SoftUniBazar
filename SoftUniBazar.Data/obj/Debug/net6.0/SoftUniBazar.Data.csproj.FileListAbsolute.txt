@@ -1,0 +1,14 @@
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.deps.json
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.runtimeconfig.json
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.dll
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.pdb
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfo.cs
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.dll
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\refint\SoftUniBazar.Data.dll
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.pdb
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.genruntimeconfig.cache
+D:\SoftUni\Containers and Clouds\Exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\ref\SoftUniBazar.Data.dll
